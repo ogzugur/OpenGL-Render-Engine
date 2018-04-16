@@ -1,0 +1,25 @@
+
+*.opendb
+*.db
+*.ipch
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
+*.tlog
+*.tlog
+*.tlog
+*.tlog
+*.tlog
+*.idb
+*.pdb
+Computer Graphics 2/Test Project/.vs/
+Computer Graphics 2/Test Project/Test Project/Debug
+*.suo
+*.user
+bin
+obj
+packages
+*.obj
